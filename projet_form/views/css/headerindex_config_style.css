@@ -1,0 +1,98 @@
+body {
+
+    background-color: grey;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+.divmain{
+    margin:50px;
+     margin-left: auto;
+     margin-right: auto;
+     width: 300px;
+     height: 500px;
+
+ }
+h2{
+    float:left;
+}
+
+.divid{
+
+    float:left;
+    padding:10px;
+    background-color: white;
+    border-radius:5px;
+    box-shadow: 1px 1px 12px #555;
+    height: 170px;
+
+}
+
+.sectionform{
+
+    float:left;
+    background-color: white;
+    border:1px solid grey;
+    height: 150px;
+
+}
+
+.divconnexion{
+    margin-top:10px;
+    float:left;
+    height: 100px;
+    width: 150px;
+    margin-left: 10px;
+}
+
+.divvalider{
+    float:left;
+    height: 20px;
+    margin-left: 180px;
+    width: 50px;
+}
+
+input[type=text] {
+    border: 1px solid grey;
+    border-radius: 0;
+    background-color: white;
+    -webkit-appearance: none;
+}
+input[type=submit] {
+    width: 90px;
+    color: white;
+    border-radius: 3px;
+    background-color: black;
+    border: 1px solid grey;
+
+}
+
+.divid2{
+    float:left;
+    margin-top: 50px;
+    padding:10px;
+    background-color: white;
+    border-radius:5px;
+    box-shadow: 1px 1px 12px #555;
+    height: 260px;
+
+}
+
+.sectionform2{
+
+    float:left;
+    background-color: white;
+    border:1px solid grey;
+    height:235px;
+
+}
+
+.divvalider2{
+    margin-top: 70px;
+    float:left;
+    height: 20px;
+    margin-left: 180px;
+    width: 50px;
+}
+
